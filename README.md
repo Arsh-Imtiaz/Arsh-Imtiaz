@@ -1,4 +1,4 @@
-<img src="https://github.com/Arsh-Imtiaz/Arsh-Imtiaz/blob/main/ezgif.com-effects.gif?raw=true" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/Arsh-Imtiaz/Arsh-Imtiaz/main/ezgif.com-effects.gif" width="100%" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 
