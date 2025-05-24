@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Arsh-Imtiaz/Gif/main/gif.gif)
+![banner](https://raw.githubusercontent.com/Arsh-Imtiaz/Gif/main/ezgif.com-effects.gif)
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 
 🚀 I'm a passionate developer currently studying BSCS at IU.  
